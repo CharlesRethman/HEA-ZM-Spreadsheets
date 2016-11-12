@@ -1,2 +1,5 @@
 # Excel spreadsheet lockfiles
 "~$"*.xlsx
+
+# Zip files
+*.zip
