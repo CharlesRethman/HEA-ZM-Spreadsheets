@@ -3,3 +3,6 @@
 
 # Zip files
 *.zip
+
+# OSX system files
+.DS_Store
