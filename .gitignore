@@ -1,5 +1,5 @@
-# Excel spreadsheet lockfiles
-~$*.xls*
+# Excel spreadsheet lock files
+~$*.xl*
 
 # Zip files
 *.zip
