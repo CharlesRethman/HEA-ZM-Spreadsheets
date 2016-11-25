@@ -1,6 +1,5 @@
-# HEA-ZM-Spreadsheets
-
-## Baseline Storage Spreadsheets for Zambia
+# HEA Zambia Baseline Storage Spreadsheets
+> Repo: `HEA-ZM-Spreadsheets` on GitHub, `hea_zm_spreadsheets` on local machine
 
 Collection of all Zambian HEA spreadsheets: Baseline Storage Spreadsheets (BSSs), Outcome Analysis Spreadsheets (OASs), Livelihoods Integrated Analysis Spreadsheets (LIASs) and Expandability Factors Spreadsheets (EFSs).
 
